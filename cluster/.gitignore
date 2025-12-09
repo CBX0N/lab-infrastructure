@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+.terraform
+state.config
+terraform.auto.tfvars
+kubeconfig
